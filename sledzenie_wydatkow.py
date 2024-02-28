@@ -1,5 +1,4 @@
 months={1:'Styczeń', 2:'Luty', 3:'Marzec', 4:'Kwiecień', 5:'Maj', 6:'Czerwiec', 7:'Lipiec', 8:'Sierpień', 9:'Wrzesień', 10: 'Październik', 11:'Listopad', 12: 'Grudzień'}
-# date={1:{'rachunki': 220,'jedzonko dla psów': 250}, 2:{'rachunki': 150, 'jedzonko dla psów': 130, 'wycieczka': 2500 }}
 
 all_expenses={1:[("prąd", "rachunki", 250), ("karma sucha", "wydatki na pieski", 150)]}
 expenses_data=("expense_name", "expense_type", "expense_cost")
